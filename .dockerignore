@@ -1,0 +1,7 @@
+build/codeCoverage
+build/javadoc
+build/unitTests
+framework
+gradle*
+install
+src
